@@ -1,8 +1,8 @@
 # Proyecto 1: Denoising Autoencoder (DAE) y Variational Autoencoder (VAE) para Restauración y Generación de Imágenes
 
-## Melanie Michel Rodriguez
-## Ilse Regina Flores Reyes
-## Santiago Aguirre Vera 
+### Melanie Michel Rodriguez
+### Ilse Regina Flores Reyes
+### Santiago Aguirre Vera 
 
 Este proyecto tiene como objetivo desarrollar y entrenar dos modelos de aprendizaje profundo: un **Denoising Autoencoder (DAE)** para la restauración de imágenes con ruido, y un **Variational Autoencoder (VAE)** para la generación de imágenes sintéticas. El proyecto fue desarrollado por **Melanie Michel**, **Santiago** y **Regina** como parte de un curso de aprendizaje profundo.
 
@@ -32,10 +32,3 @@ Este proyecto tiene como objetivo desarrollar y entrenar dos modelos de aprendiz
 ## Enlaces Relevantes
 - **Demo en Hugging Face**: [Proyect1_DAE_VAE](https://huggingface.co/spaces/melanieeemichel/Proyect1_DAE_VAE)
 - **Reporte en Weights & Biases**: [W&B Project](https://wandb.ai/melaniemichelrod-iteso/projects)
-
-## Instrucciones para Ejecutar el Código
-
-1. **Clonar el repositorio**:
-   ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
-   cd tu-repositorio
