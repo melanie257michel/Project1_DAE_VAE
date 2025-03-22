@@ -31,4 +31,3 @@ Este proyecto tiene como objetivo desarrollar y entrenar dos modelos de aprendiz
 
 ## Enlaces Relevantes
 - **Demo en Hugging Face**: [Proyect1_DAE_VAE](https://huggingface.co/spaces/melanieeemichel/Proyect1_DAE_VAE)
-- **Reporte en Weights & Biases**: [W&B Project](https://wandb.ai/melaniemichelrod-iteso/projects)
